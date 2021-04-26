@@ -63,4 +63,8 @@ Firebase | Store users' information
 * They can give feedbacks, ratings and share their pictures while having the meals.
 
 
+### Sequence Diagram
+
+
+
 
